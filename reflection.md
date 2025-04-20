@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+# I have understand how to make the merge different tables and how to set pivot table, which was helpful for filtering out data while combining differen tables together.
 

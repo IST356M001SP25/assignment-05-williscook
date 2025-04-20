@@ -52,4 +52,3 @@ st.write(annual_salary_adjusted_by_location_and_education)
 
 
 
-
