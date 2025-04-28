@@ -4,8 +4,6 @@ import pandaslib as pl
 
 # TODO: Write your transformation code here
 
-## Load from cache
-
 # load survey data from cache
 survey_data = pd.read_csv('cache/survey.csv')
 
